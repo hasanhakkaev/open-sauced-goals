@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "goharbor/harbor-helm",
+    "stargazers_count": 837,
+    "open_issues_count": 190,
+    "forks_count": 675
+  },
+  {
+    "full_name": "vsphere-tmm/helm-charts",
+    "stargazers_count": 16,
+    "open_issues_count": 11,
+    "forks_count": 16
+  },
+  {
     "full_name": "yusufpapurcu/wmi",
     "stargazers_count": 37,
     "open_issues_count": 0,
