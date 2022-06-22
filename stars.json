@@ -7,33 +7,33 @@
   },
   {
     "full_name": "kubernetes-sigs/kubebuilder",
-    "stargazers_count": 5269,
-    "open_issues_count": 99,
-    "forks_count": 1072
+    "stargazers_count": 5277,
+    "open_issues_count": 95,
+    "forks_count": 1073
   },
   {
     "full_name": "operator-framework/operator-sdk",
-    "stargazers_count": 5716,
-    "open_issues_count": 165,
-    "forks_count": 1519
+    "stargazers_count": 5726,
+    "open_issues_count": 164,
+    "forks_count": 1520
   },
   {
     "full_name": "kubernetes/code-generator",
     "stargazers_count": 1203,
     "open_issues_count": 12,
-    "forks_count": 309
+    "forks_count": 310
   },
   {
     "full_name": "kubernetes/sample-controller",
-    "stargazers_count": 2263,
+    "stargazers_count": 2264,
     "open_issues_count": 4,
     "forks_count": 829
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 27115,
-    "open_issues_count": 165,
-    "forks_count": 2363
+    "stargazers_count": 27134,
+    "open_issues_count": 167,
+    "forks_count": 2365
   },
   {
     "full_name": "mmcgrana/services-engineering",
@@ -43,33 +43,33 @@
   },
   {
     "full_name": "mattmcneeney/DNSSwitcher",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 705,
+    "stargazers_count": 707,
     "open_issues_count": 17,
-    "forks_count": 292
+    "forks_count": 293
   },
   {
     "full_name": "yusufpapurcu/wmi",
     "stargazers_count": 37,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "kyverno/kyverno",
-    "stargazers_count": 2533,
-    "open_issues_count": 292,
-    "forks_count": 331
+    "stargazers_count": 2540,
+    "open_issues_count": 293,
+    "forks_count": 332
   },
   {
     "full_name": "GoogleCloudPlatform/magic-modules",
     "stargazers_count": 515,
-    "open_issues_count": 119,
-    "forks_count": 631
+    "open_issues_count": 121,
+    "forks_count": 633
   },
   {
     "full_name": "gookit/gcli",
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "grafana/oncall",
-    "stargazers_count": 1851,
-    "open_issues_count": 25,
-    "forks_count": 52
+    "stargazers_count": 1885,
+    "open_issues_count": 26,
+    "forks_count": 53
   },
   {
     "full_name": "mintlify/mintlify",
-    "stargazers_count": 59,
-    "open_issues_count": 2,
+    "stargazers_count": 60,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "stakater/Reloader",
-    "stargazers_count": 3545,
+    "stargazers_count": 3551,
     "open_issues_count": 31,
     "forks_count": 267
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 522,
-    "open_issues_count": 431,
-    "forks_count": 22
+    "stargazers_count": 539,
+    "open_issues_count": 426,
+    "forks_count": 26
   },
   {
     "full_name": "fatih/kodla-talk-2022",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "go-resty/resty",
-    "stargazers_count": 6229,
+    "stargazers_count": 6235,
     "open_issues_count": 69,
     "forks_count": 509
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 5695,
+    "stargazers_count": 5840,
     "open_issues_count": 0,
-    "forks_count": 627
+    "forks_count": 635
   },
   {
     "full_name": "swagger-api/swagger-ui",
-    "stargazers_count": 22237,
-    "open_issues_count": 788,
-    "forks_count": 8360
+    "stargazers_count": 22241,
+    "open_issues_count": 790,
+    "forks_count": 8363
   },
   {
     "full_name": "swaggest/openapi-go",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 24074,
+    "stargazers_count": 24080,
     "open_issues_count": 505,
-    "forks_count": 8370
+    "forks_count": 8374
   },
   {
     "full_name": "Cloud-Native-Turkiye-Kubernetes/tgicn",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "Redocly/redoc",
-    "stargazers_count": 17611,
-    "open_issues_count": 395,
+    "stargazers_count": 17623,
+    "open_issues_count": 396,
     "forks_count": 1958
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 12611,
-    "open_issues_count": 3264,
-    "forks_count": 4317
+    "stargazers_count": 12622,
+    "open_issues_count": 3265,
+    "forks_count": 4320
   }
 ]
