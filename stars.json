@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "TwiN/gatus",
+    "stargazers_count": 2604,
+    "open_issues_count": 48,
+    "forks_count": 178
+  },
+  {
+    "full_name": "wneessen/go-mail",
+    "stargazers_count": 24,
+    "open_issues_count": 2,
+    "forks_count": 3
+  },
+  {
+    "full_name": "stripe/goforit",
+    "stargazers_count": 55,
+    "open_issues_count": 0,
+    "forks_count": 12
+  },
+  {
+    "full_name": "joatmon08/hashicorp-vault-flux",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "abdfnx/resto",
+    "stargazers_count": 81,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
     "full_name": "zalando-incubator/stackset-controller",
     "stargazers_count": 155,
     "open_issues_count": 28,
@@ -7,33 +37,33 @@
   },
   {
     "full_name": "kubernetes-sigs/kubebuilder",
-    "stargazers_count": 5277,
-    "open_issues_count": 95,
-    "forks_count": 1073
+    "stargazers_count": 5291,
+    "open_issues_count": 94,
+    "forks_count": 1076
   },
   {
     "full_name": "operator-framework/operator-sdk",
-    "stargazers_count": 5726,
-    "open_issues_count": 164,
+    "stargazers_count": 5731,
+    "open_issues_count": 167,
     "forks_count": 1520
   },
   {
     "full_name": "kubernetes/code-generator",
-    "stargazers_count": 1203,
+    "stargazers_count": 1206,
     "open_issues_count": 12,
     "forks_count": 310
   },
   {
     "full_name": "kubernetes/sample-controller",
-    "stargazers_count": 2264,
+    "stargazers_count": 2270,
     "open_issues_count": 4,
-    "forks_count": 829
+    "forks_count": 831
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 27134,
-    "open_issues_count": 167,
-    "forks_count": 2365
+    "stargazers_count": 27170,
+    "open_issues_count": 169,
+    "forks_count": 2376
   },
   {
     "full_name": "mmcgrana/services-engineering",
@@ -49,7 +79,7 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 707,
+    "stargazers_count": 708,
     "open_issues_count": 17,
     "forks_count": 293
   },
@@ -61,15 +91,15 @@
   },
   {
     "full_name": "kyverno/kyverno",
-    "stargazers_count": 2540,
+    "stargazers_count": 2562,
     "open_issues_count": 293,
     "forks_count": 332
   },
   {
     "full_name": "GoogleCloudPlatform/magic-modules",
     "stargazers_count": 515,
-    "open_issues_count": 121,
-    "forks_count": 633
+    "open_issues_count": 116,
+    "forks_count": 637
   },
   {
     "full_name": "gookit/gcli",
@@ -79,9 +109,9 @@
   },
   {
     "full_name": "grafana/oncall",
-    "stargazers_count": 1885,
-    "open_issues_count": 26,
-    "forks_count": 53
+    "stargazers_count": 1946,
+    "open_issues_count": 27,
+    "forks_count": 55
   },
   {
     "full_name": "mintlify/mintlify",
@@ -91,9 +121,9 @@
   },
   {
     "full_name": "stakater/Reloader",
-    "stargazers_count": 3551,
-    "open_issues_count": 31,
-    "forks_count": 267
+    "stargazers_count": 3563,
+    "open_issues_count": 33,
+    "forks_count": 269
   },
   {
     "full_name": "borakasmer/fuel",
@@ -103,9 +133,9 @@
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 539,
-    "open_issues_count": 426,
-    "forks_count": 26
+    "stargazers_count": 569,
+    "open_issues_count": 413,
+    "forks_count": 29
   },
   {
     "full_name": "fatih/kodla-talk-2022",
@@ -115,15 +145,15 @@
   },
   {
     "full_name": "olekukonko/tablewriter",
-    "stargazers_count": 3433,
+    "stargazers_count": 3436,
     "open_issues_count": 80,
     "forks_count": 304
   },
   {
     "full_name": "go-resty/resty",
-    "stargazers_count": 6235,
-    "open_issues_count": 69,
-    "forks_count": 509
+    "stargazers_count": 6245,
+    "open_issues_count": 70,
+    "forks_count": 511
   },
   {
     "full_name": "getporter/operator",
@@ -133,50 +163,20 @@
   },
   {
     "full_name": "gimlet-io/gimlet",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 28,
     "forks_count": 11
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 5840,
+    "stargazers_count": 5947,
     "open_issues_count": 0,
-    "forks_count": 635
+    "forks_count": 643
   },
   {
     "full_name": "swagger-api/swagger-ui",
-    "stargazers_count": 22241,
+    "stargazers_count": 22252,
     "open_issues_count": 790,
-    "forks_count": 8363
-  },
-  {
-    "full_name": "swaggest/openapi-go",
-    "stargazers_count": 42,
-    "open_issues_count": 3,
-    "forks_count": 9
-  },
-  {
-    "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 24080,
-    "open_issues_count": 505,
-    "forks_count": 8374
-  },
-  {
-    "full_name": "Cloud-Native-Turkiye-Kubernetes/tgicn",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Redocly/redoc",
-    "stargazers_count": 17623,
-    "open_issues_count": 396,
-    "forks_count": 1958
-  },
-  {
-    "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 12622,
-    "open_issues_count": 3265,
-    "forks_count": 4320
+    "forks_count": 8364
   }
 ]
