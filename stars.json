@@ -1,8 +1,32 @@
 [
   {
+    "full_name": "alextran1502/immich",
+    "stargazers_count": 1911,
+    "open_issues_count": 28,
+    "forks_count": 56
+  },
+  {
+    "full_name": "karanpratapsingh/go-course",
+    "stargazers_count": 175,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "cloudnativecomputingvienna/cncv",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "open-policy-agent/gatekeeper-library",
+    "stargazers_count": 423,
+    "open_issues_count": 69,
+    "forks_count": 215
+  },
+  {
     "full_name": "TwiN/gatus",
-    "stargazers_count": 2606,
-    "open_issues_count": 48,
+    "stargazers_count": 2613,
+    "open_issues_count": 49,
     "forks_count": 178
   },
   {
@@ -25,33 +49,33 @@
   },
   {
     "full_name": "abdfnx/resto",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "zalando-incubator/stackset-controller",
-    "stargazers_count": 155,
-    "open_issues_count": 28,
+    "stargazers_count": 156,
+    "open_issues_count": 29,
     "forks_count": 21
   },
   {
     "full_name": "kubernetes-sigs/kubebuilder",
-    "stargazers_count": 5292,
-    "open_issues_count": 89,
-    "forks_count": 1077
+    "stargazers_count": 5302,
+    "open_issues_count": 87,
+    "forks_count": 1082
   },
   {
     "full_name": "operator-framework/operator-sdk",
-    "stargazers_count": 5731,
+    "stargazers_count": 5749,
     "open_issues_count": 166,
-    "forks_count": 1520
+    "forks_count": 1521
   },
   {
     "full_name": "kubernetes/code-generator",
     "stargazers_count": 1207,
-    "open_issues_count": 12,
-    "forks_count": 310
+    "open_issues_count": 11,
+    "forks_count": 311
   },
   {
     "full_name": "kubernetes/sample-controller",
@@ -61,7 +85,7 @@
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 27181,
+    "stargazers_count": 27242,
     "open_issues_count": 168,
     "forks_count": 2378
   },
@@ -79,9 +103,9 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 708,
-    "open_issues_count": 17,
-    "forks_count": 293
+    "stargazers_count": 709,
+    "open_issues_count": 15,
+    "forks_count": 294
   },
   {
     "full_name": "yusufpapurcu/wmi",
@@ -91,15 +115,15 @@
   },
   {
     "full_name": "kyverno/kyverno",
-    "stargazers_count": 2568,
-    "open_issues_count": 295,
-    "forks_count": 331
+    "stargazers_count": 2572,
+    "open_issues_count": 298,
+    "forks_count": 333
   },
   {
     "full_name": "GoogleCloudPlatform/magic-modules",
-    "stargazers_count": 515,
+    "stargazers_count": 517,
     "open_issues_count": 119,
-    "forks_count": 638
+    "forks_count": 640
   },
   {
     "full_name": "gookit/gcli",
@@ -109,33 +133,33 @@
   },
   {
     "full_name": "grafana/oncall",
-    "stargazers_count": 1970,
-    "open_issues_count": 33,
-    "forks_count": 55
+    "stargazers_count": 1990,
+    "open_issues_count": 42,
+    "forks_count": 60
   },
   {
     "full_name": "mintlify/mintlify",
-    "stargazers_count": 60,
-    "open_issues_count": 1,
-    "forks_count": 0
+    "stargazers_count": 61,
+    "open_issues_count": 0,
+    "forks_count": 1
   },
   {
     "full_name": "stakater/Reloader",
-    "stargazers_count": 3573,
-    "open_issues_count": 34,
+    "stargazers_count": 3583,
+    "open_issues_count": 35,
     "forks_count": 269
   },
   {
     "full_name": "borakasmer/fuel",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 7,
     "forks_count": 7
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 580,
-    "open_issues_count": 424,
-    "forks_count": 30
+    "stargazers_count": 635,
+    "open_issues_count": 428,
+    "forks_count": 33
   },
   {
     "full_name": "fatih/kodla-talk-2022",
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "olekukonko/tablewriter",
-    "stargazers_count": 3438,
+    "stargazers_count": 3444,
     "open_issues_count": 80,
     "forks_count": 304
   },
   {
     "full_name": "go-resty/resty",
-    "stargazers_count": 6249,
+    "stargazers_count": 6259,
     "open_issues_count": 70,
     "forks_count": 511
-  },
-  {
-    "full_name": "getporter/operator",
-    "stargazers_count": 18,
-    "open_issues_count": 26,
-    "forks_count": 10
-  },
-  {
-    "full_name": "gimlet-io/gimlet",
-    "stargazers_count": 59,
-    "open_issues_count": 29,
-    "forks_count": 11
-  },
-  {
-    "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 5958,
-    "open_issues_count": 0,
-    "forks_count": 643
-  },
-  {
-    "full_name": "swagger-api/swagger-ui",
-    "stargazers_count": 22262,
-    "open_issues_count": 792,
-    "forks_count": 8366
   }
 ]
