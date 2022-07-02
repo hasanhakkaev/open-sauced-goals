@@ -1,15 +1,15 @@
 [
   {
     "full_name": "alextran1502/immich",
-    "stargazers_count": 1943,
-    "open_issues_count": 28,
+    "stargazers_count": 1953,
+    "open_issues_count": 29,
     "forks_count": 57
   },
   {
     "full_name": "karanpratapsingh/go-course",
-    "stargazers_count": 276,
-    "open_issues_count": 1,
-    "forks_count": 14
+    "stargazers_count": 288,
+    "open_issues_count": 0,
+    "forks_count": 16
   },
   {
     "full_name": "cloudnativecomputingvienna/cncv",
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "open-policy-agent/gatekeeper-library",
-    "stargazers_count": 423,
+    "stargazers_count": 424,
     "open_issues_count": 69,
-    "forks_count": 215
+    "forks_count": 217
   },
   {
     "full_name": "TwiN/gatus",
-    "stargazers_count": 2616,
+    "stargazers_count": 2618,
     "open_issues_count": 49,
     "forks_count": 177
   },
   {
     "full_name": "wneessen/go-mail",
     "stargazers_count": 25,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 3
   },
   {
@@ -49,45 +49,45 @@
   },
   {
     "full_name": "abdfnx/resto",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "zalando-incubator/stackset-controller",
     "stargazers_count": 156,
-    "open_issues_count": 28,
+    "open_issues_count": 33,
     "forks_count": 21
   },
   {
     "full_name": "kubernetes-sigs/kubebuilder",
-    "stargazers_count": 5324,
+    "stargazers_count": 5331,
     "open_issues_count": 85,
-    "forks_count": 1089
+    "forks_count": 1088
   },
   {
     "full_name": "operator-framework/operator-sdk",
     "stargazers_count": 5755,
-    "open_issues_count": 164,
-    "forks_count": 1523
+    "open_issues_count": 165,
+    "forks_count": 1524
   },
   {
     "full_name": "kubernetes/code-generator",
-    "stargazers_count": 1211,
+    "stargazers_count": 1212,
     "open_issues_count": 11,
     "forks_count": 311
   },
   {
     "full_name": "kubernetes/sample-controller",
-    "stargazers_count": 2278,
+    "stargazers_count": 2280,
     "open_issues_count": 4,
-    "forks_count": 831
+    "forks_count": 832
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 27286,
+    "stargazers_count": 27300,
     "open_issues_count": 169,
-    "forks_count": 2380
+    "forks_count": 2381
   },
   {
     "full_name": "mmcgrana/services-engineering",
@@ -105,7 +105,7 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 710,
     "open_issues_count": 16,
-    "forks_count": 299
+    "forks_count": 298
   },
   {
     "full_name": "yusufpapurcu/wmi",
@@ -116,14 +116,14 @@
   {
     "full_name": "kyverno/kyverno",
     "stargazers_count": 2584,
-    "open_issues_count": 297,
+    "open_issues_count": 294,
     "forks_count": 337
   },
   {
     "full_name": "GoogleCloudPlatform/magic-modules",
     "stargazers_count": 517,
-    "open_issues_count": 124,
-    "forks_count": 642
+    "open_issues_count": 122,
+    "forks_count": 643
   },
   {
     "full_name": "gookit/gcli",
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "grafana/oncall",
-    "stargazers_count": 2007,
-    "open_issues_count": 47,
-    "forks_count": 65
+    "stargazers_count": 2012,
+    "open_issues_count": 48,
+    "forks_count": 66
   },
   {
     "full_name": "mintlify/mintlify",
-    "stargazers_count": 88,
+    "stargazers_count": 91,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "stakater/Reloader",
-    "stargazers_count": 3602,
+    "stargazers_count": 3604,
     "open_issues_count": 35,
     "forks_count": 270
   },
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 656,
-    "open_issues_count": 458,
+    "stargazers_count": 672,
+    "open_issues_count": 463,
     "forks_count": 39
   },
   {
@@ -171,12 +171,12 @@
     "full_name": "olekukonko/tablewriter",
     "stargazers_count": 3447,
     "open_issues_count": 80,
-    "forks_count": 304
+    "forks_count": 303
   },
   {
     "full_name": "go-resty/resty",
-    "stargazers_count": 6276,
-    "open_issues_count": 73,
+    "stargazers_count": 6280,
+    "open_issues_count": 72,
     "forks_count": 512
   }
 ]
