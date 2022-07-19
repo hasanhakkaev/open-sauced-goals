@@ -1,9 +1,9 @@
 [
   {
     "full_name": "goharbor/harbor-helm",
-    "stargazers_count": 847,
-    "open_issues_count": 193,
-    "forks_count": 680
+    "stargazers_count": 848,
+    "open_issues_count": 187,
+    "forks_count": 683
   },
   {
     "full_name": "vsphere-tmm/helm-charts",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 723,
+    "stargazers_count": 724,
     "open_issues_count": 16,
-    "forks_count": 317
+    "forks_count": 318
   }
 ]
