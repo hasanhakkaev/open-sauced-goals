@@ -1,13 +1,13 @@
 [
   {
     "full_name": "alextran1502/immich",
-    "stargazers_count": 2083,
-    "open_issues_count": 38,
+    "stargazers_count": 2093,
+    "open_issues_count": 39,
     "forks_count": 68
   },
   {
     "full_name": "karanpratapsingh/go-course",
-    "stargazers_count": 350,
+    "stargazers_count": 351,
     "open_issues_count": 0,
     "forks_count": 25
   },
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "open-policy-agent/gatekeeper-library",
-    "stargazers_count": 427,
+    "stargazers_count": 426,
     "open_issues_count": 70,
     "forks_count": 219
   },
   {
     "full_name": "TwiN/gatus",
-    "stargazers_count": 2661,
+    "stargazers_count": 2663,
     "open_issues_count": 50,
-    "forks_count": 183
+    "forks_count": 185
   },
   {
     "full_name": "wneessen/go-mail",
@@ -45,7 +45,7 @@
     "full_name": "joatmon08/hashicorp-vault-flux",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "abdfnx/resto",
@@ -61,33 +61,33 @@
   },
   {
     "full_name": "kubernetes-sigs/kubebuilder",
-    "stargazers_count": 5412,
-    "open_issues_count": 82,
+    "stargazers_count": 5421,
+    "open_issues_count": 83,
     "forks_count": 1099
   },
   {
     "full_name": "operator-framework/operator-sdk",
-    "stargazers_count": 5863,
-    "open_issues_count": 155,
-    "forks_count": 1536
+    "stargazers_count": 5865,
+    "open_issues_count": 156,
+    "forks_count": 1538
   },
   {
     "full_name": "kubernetes/code-generator",
-    "stargazers_count": 1228,
+    "stargazers_count": 1231,
     "open_issues_count": 11,
     "forks_count": 314
   },
   {
     "full_name": "kubernetes/sample-controller",
-    "stargazers_count": 2297,
+    "stargazers_count": 2300,
     "open_issues_count": 3,
-    "forks_count": 839
+    "forks_count": 840
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 27574,
-    "open_issues_count": 168,
-    "forks_count": 2397
+    "stargazers_count": 27612,
+    "open_issues_count": 169,
+    "forks_count": 2400
   },
   {
     "full_name": "mmcgrana/services-engineering",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 724,
+    "stargazers_count": 725,
     "open_issues_count": 16,
-    "forks_count": 318
+    "forks_count": 319
   },
   {
     "full_name": "yusufpapurcu/wmi",
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "kyverno/kyverno",
-    "stargazers_count": 2656,
-    "open_issues_count": 305,
-    "forks_count": 346
+    "stargazers_count": 2661,
+    "open_issues_count": 304,
+    "forks_count": 347
   },
   {
     "full_name": "GoogleCloudPlatform/magic-modules",
     "stargazers_count": 521,
-    "open_issues_count": 136,
+    "open_issues_count": 129,
     "forks_count": 655
   },
   {
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "grafana/oncall",
-    "stargazers_count": 2053,
-    "open_issues_count": 61,
-    "forks_count": 69
+    "stargazers_count": 2057,
+    "open_issues_count": 60,
+    "forks_count": 70
   },
   {
     "full_name": "mintlify/connector",
-    "stargazers_count": 117,
+    "stargazers_count": 119,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "stakater/Reloader",
-    "stargazers_count": 3655,
+    "stargazers_count": 3661,
     "open_issues_count": 34,
     "forks_count": 273
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 1148,
-    "open_issues_count": 528,
-    "forks_count": 58
+    "stargazers_count": 1171,
+    "open_issues_count": 530,
+    "forks_count": 63
   },
   {
     "full_name": "fatih/kodla-talk-2022",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "olekukonko/tablewriter",
-    "stargazers_count": 3472,
+    "stargazers_count": 3475,
     "open_issues_count": 80,
     "forks_count": 304
   },
   {
     "full_name": "go-resty/resty",
-    "stargazers_count": 6364,
-    "open_issues_count": 74,
-    "forks_count": 518
+    "stargazers_count": 6366,
+    "open_issues_count": 73,
+    "forks_count": 519
   }
 ]
