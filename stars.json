@@ -7,33 +7,33 @@
   },
   {
     "full_name": "prometheus/alertmanager",
-    "stargazers_count": 5066,
-    "open_issues_count": 377,
-    "forks_count": 1810
+    "stargazers_count": 5075,
+    "open_issues_count": 382,
+    "forks_count": 1813
   },
   {
     "full_name": "blushft/go-diagrams",
-    "stargazers_count": 3741,
+    "stargazers_count": 3767,
     "open_issues_count": 16,
-    "forks_count": 120
+    "forks_count": 123
   },
   {
     "full_name": "kamalshkeir/kago",
-    "stargazers_count": 64,
+    "stargazers_count": 81,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 2315,
-    "open_issues_count": 44,
-    "forks_count": 71
+    "stargazers_count": 2383,
+    "open_issues_count": 63,
+    "forks_count": 72
   },
   {
     "full_name": "karanpratapsingh/go-course",
-    "stargazers_count": 393,
+    "stargazers_count": 410,
     "open_issues_count": 0,
-    "forks_count": 28
+    "forks_count": 30
   },
   {
     "full_name": "cloudnativecomputingvienna/cncv",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "open-policy-agent/gatekeeper-library",
-    "stargazers_count": 429,
+    "stargazers_count": 430,
     "open_issues_count": 73,
-    "forks_count": 225
+    "forks_count": 227
   },
   {
     "full_name": "TwiN/gatus",
-    "stargazers_count": 2694,
+    "stargazers_count": 2712,
     "open_issues_count": 51,
     "forks_count": 187
   },
@@ -73,93 +73,93 @@
   },
   {
     "full_name": "abdfnx/resto",
-    "stargazers_count": 94,
+    "stargazers_count": 93,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "zalando-incubator/stackset-controller",
     "stargazers_count": 155,
-    "open_issues_count": 29,
+    "open_issues_count": 30,
     "forks_count": 22
   },
   {
     "full_name": "kubernetes-sigs/kubebuilder",
-    "stargazers_count": 5450,
-    "open_issues_count": 85,
-    "forks_count": 1101
+    "stargazers_count": 5459,
+    "open_issues_count": 87,
+    "forks_count": 1103
   },
   {
     "full_name": "operator-framework/operator-sdk",
-    "stargazers_count": 5894,
-    "open_issues_count": 157,
-    "forks_count": 1538
+    "stargazers_count": 5900,
+    "open_issues_count": 159,
+    "forks_count": 1543
   },
   {
     "full_name": "kubernetes/code-generator",
-    "stargazers_count": 1237,
+    "stargazers_count": 1240,
     "open_issues_count": 11,
-    "forks_count": 314
+    "forks_count": 315
   },
   {
     "full_name": "kubernetes/sample-controller",
-    "stargazers_count": 2320,
+    "stargazers_count": 2323,
     "open_issues_count": 3,
-    "forks_count": 843
+    "forks_count": 845
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 27838,
+    "stargazers_count": 27902,
     "open_issues_count": 172,
-    "forks_count": 2416
+    "forks_count": 2423
   },
   {
     "full_name": "mmcgrana/services-engineering",
-    "stargazers_count": 3339,
+    "stargazers_count": 3340,
     "open_issues_count": 51,
     "forks_count": 287
   },
   {
     "full_name": "mattmcneeney/DNSSwitcher",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 729,
+    "stargazers_count": 735,
     "open_issues_count": 16,
-    "forks_count": 335
+    "forks_count": 338
   },
   {
     "full_name": "yusufpapurcu/wmi",
-    "stargazers_count": 38,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "kyverno/kyverno",
-    "stargazers_count": 2706,
-    "open_issues_count": 295,
-    "forks_count": 356
+    "stargazers_count": 2715,
+    "open_issues_count": 299,
+    "forks_count": 359
   },
   {
     "full_name": "GoogleCloudPlatform/magic-modules",
     "stargazers_count": 527,
-    "open_issues_count": 122,
-    "forks_count": 663
+    "open_issues_count": 126,
+    "forks_count": 662
   },
   {
     "full_name": "gookit/gcli",
     "stargazers_count": 259,
     "open_issues_count": 4,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "grafana/oncall",
-    "stargazers_count": 2075,
-    "open_issues_count": 75,
-    "forks_count": 69
+    "stargazers_count": 2082,
+    "open_issues_count": 83,
+    "forks_count": 70
   },
   {
     "full_name": "mintlify/connector",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "stakater/Reloader",
-    "stargazers_count": 3719,
+    "stargazers_count": 3728,
     "open_issues_count": 34,
-    "forks_count": 281
+    "forks_count": 282
   },
   {
     "full_name": "borakasmer/fuel",
     "stargazers_count": 55,
     "open_issues_count": 7,
-    "forks_count": 7
+    "forks_count": 8
   }
 ]
